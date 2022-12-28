@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yYYDkWv4YxWRb8LMvGdnd1F0bjZgc1mj2l23smHRWd0=",
+  "Source": "todoAPIdotnet",
+  "BasePath": "_content/todoAPIdotnet",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
