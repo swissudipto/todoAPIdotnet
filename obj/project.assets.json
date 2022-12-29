@@ -3723,24 +3723,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\boses\\.nuget\\packages\\": {}
+    "C:\\Users\\Sudipto\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Matrix\\todoAPIdotnet\\todoAPIdotnet.csproj",
+      "projectUniqueName": "D:\\todoAPIdotnet\\todoAPIdotnet.csproj",
       "projectName": "todoAPIdotnet",
-      "projectPath": "C:\\Matrix\\todoAPIdotnet\\todoAPIdotnet.csproj",
-      "packagesPath": "C:\\Users\\boses\\.nuget\\packages\\",
-      "outputPath": "C:\\Matrix\\todoAPIdotnet\\obj\\",
+      "projectPath": "D:\\todoAPIdotnet\\todoAPIdotnet.csproj",
+      "packagesPath": "C:\\Users\\Sudipto\\.nuget\\packages\\",
+      "outputPath": "D:\\todoAPIdotnet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\boses\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Sudipto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
